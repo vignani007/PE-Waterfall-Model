@@ -1,4 +1,4 @@
-# PE / Private Credit Fund — Waterfall Model
+# PE / Private Credit Fund: Waterfall Model
 
 A Python implementation of a four-tier private equity waterfall model covering both **European (whole-fund)** and **American (deal-by-deal)** structures, with compounded preferred return, GP catch-up, clawback reconciliation, and fund performance metrics.
 
@@ -38,7 +38,7 @@ This ensures GP ends up with **exactly 20% of total fund profits** — provably 
 
 ---
 
-## Illustrative Fund (Alter Domus Private Credit Fund I)
+## Illustrative Fund (Delta Private Equity Fund I)
 
 | Parameter | Value |
 |---|---|
