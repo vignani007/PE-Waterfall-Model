@@ -1,4 +1,4 @@
-# PE / Private Credit Fund: Waterfall Model
+# PE Fund: Waterfall Model
 
 A Python implementation of a four-tier private equity waterfall model covering both **European (whole-fund)** and **American (deal-by-deal)** structures, with compounded preferred return, GP catch-up, clawback reconciliation, and fund performance metrics.
 
